@@ -2,12 +2,12 @@
 
 Live at https://magic-nuxtjs.vercel.app/login
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fshahbaz17%2Fmagic-nuxtjs&env=NUXT_ENV_MAGIC_PUBLISHABLE_KEY) [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shahbaz17/magic-nuxtjs)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmagiclabs%2Fmagic-nuxtjs&env=NUXT_ENV_MAGIC_PUBLISHABLE_KEY) [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/magiclabs/magic-nuxtjs)
 
 # Quick Start Instructions
 
 ```bash
-$ git clone https://github.com/shahbaz17/magic-nuxtjs
+$ git clone https://github.com/magiclabs/magic-nuxtjs
 $ cd magic-nuxtjs
 $ mv .env.example .env
 # enter your Magic API keys in your env variables
