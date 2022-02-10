@@ -19,7 +19,7 @@ $ yarn dev
 ## Environment Variables
 
 ```
-NUXT_ENV_MAGIC_PUBLISHABLE_KEY=pk_test_
+NUXT_ENV_MAGIC_PUBLISHABLE_KEY=pk_live_123...
 ```
 
 ## Get your Magic Keys
