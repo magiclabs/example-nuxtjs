@@ -26,4 +26,4 @@ NUXT_ENV_MAGIC_PUBLISHABLE_KEY=pk_live_123...
 
 Sign Up with [Magic](https://dashboard.magic.link/signup) and get your `NUXT_ENV_MAGIC_PUBLISHABLE_KEY`.
 
-![Dashboard Image](https://dev-to-uploads.s3.amazonaws.com/i/fnjqvscslu11ih87p94t.png)
+![Magic Dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k779bi7ezxydhp1tea8k.png)
